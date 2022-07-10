@@ -1,4 +1,4 @@
-# quote
+# Quote
 
 A new Flutter project.
 
